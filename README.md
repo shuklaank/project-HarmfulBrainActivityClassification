@@ -28,3 +28,7 @@ The project includes code for data preprocessing, model architecture, and evalua
 ## Models
 
 Experiment with different machine learning models, such as deep learning architectures or ensemble methods, to achieve accurate and robust predictions for harmful brain activity classification.
+
+## Dataset Link
+Access the dataset on Kaggle: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data
+
